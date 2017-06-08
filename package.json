@@ -1,0 +1,26 @@
+{
+  "name": "hugo-boilerplate",
+  "version": "0.2.0",
+  "description": "A simple boilerplate for Hugo",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "exports-loader": "^0.6.4",
+    "gulp": "^3.9.1",
+    "gulp-cache-bust": "^1.1.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-purifycss": "^0.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "jquery.easing": "^1.4.1",
+    "webpack": "^2.6.1",
+    "webpack-stream": "^3.2.0"
+  },
+  "scripts": {
+    "build": "gulp",
+    "optimize": "gulp optimize",
+    "fingerprint": "gulp fingerprint"
+  }
+}
