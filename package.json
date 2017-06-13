@@ -5,6 +5,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "exports-loader": "^0.6.4",
+    "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
     "gulp-cache-bust": "^1.1.0",
     "gulp-cssnano": "^2.1.2",
